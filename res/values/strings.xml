@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SinaWeiBo</string>
+    <string name="login">登 录</string>
+    <string name="registration">注册</string>
+    <string name="authTip">授权提示</string>
+    <string name="authTipMsg">是否使用您的新浪微博帐号进行授权</string>
+
+</resources>

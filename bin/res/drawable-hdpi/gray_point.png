@@ -1,0 +1,9 @@
+luggable.core,1.0.400.v20110305-1450,"org.eclipse.jdt.apt.pluggable.core",1338295336709
+started,bundle,org.eclipse.jdt.core,3.7.3.v20120119-1537,"org.eclipse.jdt.core",1338295336725
+started,bundle,org.eclipse.jdt.core.manipulation,1.4.0.v20110928-1453,"org.eclipse.jdt.core.manipulation",1338295336803
+started,bundle,org.eclipse.jdt.launching,3.6.1.v20111006_r372,"org.eclipse.jdt.launching",1338295336865
+started,bundle,org.eclipse.jdt.ui,3.7.2.v20120109-1427,"org.eclipse.jdt.ui",1338295336865
+started,bundle,org.eclipse.jface,3.7.0.v20110928-1505,"org.eclipse.jface",1338295336881
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1338295336912
+started,bundle,org.eclipse.jst.ws.jaxws.utils,1.0.100.v201201031437,"org.eclipse.jst.ws.jaxws.utils",1338295336943
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.201.r372_v20111101-0700,"o
