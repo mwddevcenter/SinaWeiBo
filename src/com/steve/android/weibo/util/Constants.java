@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.sina.android.weibo.util;
+package com.steve.android.weibo.util;
 
 /**
  * @fileName Constants.java

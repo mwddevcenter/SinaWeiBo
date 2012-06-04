@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.sina.android.weibo.model;
+package com.steve.android.weibo.model;
 
 import java.util.Map;
 

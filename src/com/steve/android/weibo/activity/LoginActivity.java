@@ -1,4 +1,4 @@
-package com.sina.android.weibo.activity;
+package com.steve.android.weibo.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,10 +8,10 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.sina.android.weibo.R;
-import com.sina.android.weibo.model.Task;
-import com.sina.android.weibo.service.MainService;
-import com.sina.android.weibo.util.Constants;
+import com.steve.android.weibo.R;
+import com.steve.android.weibo.model.Task;
+import com.steve.android.weibo.service.MainService;
+import com.steve.android.weibo.util.Constants;
 
 public class LoginActivity extends Activity implements IWeiboActivity{
 

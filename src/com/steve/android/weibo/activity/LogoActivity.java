@@ -1,8 +1,4 @@
-package com.sina.android.weibo.activity;
-
-import com.sina.android.weibo.R;
-import com.sina.android.weibo.R.id;
-import com.sina.android.weibo.R.layout;
+package com.steve.android.weibo.activity;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -13,6 +9,8 @@ import android.view.animation.AlphaAnimation;
 import android.view.animation.Animation;
 import android.view.animation.Animation.AnimationListener;
 import android.widget.ImageView;
+
+import com.steve.android.weibo.R;
 
 public class LogoActivity extends Activity {
 

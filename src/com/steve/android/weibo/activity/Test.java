@@ -1,7 +1,7 @@
 /**
  *
  */
-package com.sina.android.weibo.activity;
+package com.steve.android.weibo.activity;
 
 /**
  * @fileName Test.java

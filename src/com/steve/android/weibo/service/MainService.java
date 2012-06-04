@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.sina.android.weibo.service;
+package com.steve.android.weibo.service;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -16,9 +16,9 @@ import android.os.IBinder;
 import android.os.Message;
 import android.util.Log;
 
-import com.sina.android.weibo.activity.IWeiboActivity;
-import com.sina.android.weibo.model.Task;
-import com.sina.android.weibo.util.Constants;
+import com.steve.android.weibo.activity.IWeiboActivity;
+import com.steve.android.weibo.model.Task;
+import com.steve.android.weibo.util.Constants;
 
 /**
  * @author 郭强

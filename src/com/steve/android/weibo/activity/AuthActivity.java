@@ -1,14 +1,14 @@
 /**
  *
  */
-package com.sina.android.weibo.activity;
+package com.steve.android.weibo.activity;
 
 import android.app.Activity;
 import android.app.Dialog;
 import android.os.Bundle;
 import android.view.View;
 
-import com.sina.android.weibo.R;
+import com.steve.android.weibo.R;
 
 /**
  * @fileName AuthActivity.java
